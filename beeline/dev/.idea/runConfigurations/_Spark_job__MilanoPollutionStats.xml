@@ -1,0 +1,60 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="[Spark job] MilanoPollutionStats" type="SubmitSparkJob_Configuration" factoryName="HDInsight Spark">
+    <module name="dev" />
+    <spark-job-configuration>
+      <local-run>
+        <spark-local-run-configurable-model>
+          <option name="classpathModifications">
+            <list />
+          </option>
+          <is-parallel-execution>false</is-parallel-execution>
+          <is-pass-parent-envs>true</is-pass-parent-envs>
+          <program-parameters />
+          <working-directory>file://$PROJECT_DIR$</working-directory>
+          <envs>
+            <map>
+              <envs key="HADOOP_HOME" value="C:\sandbox\hadoop-3.2.2" />
+            </map>
+          </envs>
+          <vm-parameters />
+          <main-class>milano.MilanoPollutionStats</main-class>
+          <classpath-module />
+          <data-root>file://$PROJECT_DIR$/data</data-root>
+        </spark-local-run-configurable-model>
+      </local-run>
+      <focused-tab-index>0</focused-tab-index>
+      <spark_submission artifact_name="dev_DefaultArtifact" cluster_mapped_id="" is_local_artifact="false" job_name="[Spark job] MilanoPollutionStats" local_artifact_path="" classname="milano.MilanoPollutionStats">
+        <cmd_line_args />
+        <jobConfigs>
+          <array>
+            <option value="driverMemory" />
+            <option value="4G" />
+          </array>
+          <array>
+            <option value="driverCores" />
+            <option value="1" />
+          </array>
+          <array>
+            <option value="executorMemory" />
+            <option value="4G" />
+          </array>
+          <array>
+            <option value="executorCores" />
+            <option value="1" />
+          </array>
+          <array>
+            <option value="numExecutors" />
+            <option value="5" />
+          </array>
+        </jobConfigs>
+        <ref_files />
+        <ref_jars />
+        <ssh_cert auth_type="UsePassword" private_key_path="" user="sshuser" remote_debug_enabled="false" />
+        <job_upload_storage upload_path="&lt; Invalid upload path &gt;" />
+      </spark_submission>
+    </spark-job-configuration>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
