@@ -262,6 +262,356 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\data\__default__\user\current\source\mi_pollution\legend\pollution-legend-mi.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\source\mi_pollution\pollution_mi\mi_pollution_10280.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\source\mi_pollution\pollution_mi\mi_pollution_10283.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\source\mi_pollution\pollution_mi\mi_pollution_17127.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\source\mi_pollution\pollution_mi\mi_pollution_20004.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\source\mi_pollution\pollution_mi\mi_pollution_20005.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\source\mi_pollution\pollution_mi\mi_pollution_20020.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\source\mi_pollution\pollution_mi\mi_pollution_5504.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\source\mi_pollution\pollution_mi\mi_pollution_5506.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\source\mi_pollution\pollution_mi\mi_pollution_5542.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\source\mi_pollution\pollution_mi\mi_pollution_6328.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\source\mi_pollution\pollution_mi\mi_pollution_6354.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\source\mi_pollution\pollution_mi\mi_pollution_6366.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\legend\pollution-legend-mi.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_10273.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_10278.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_10279.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_10280.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_10282.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_10283.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_10320.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_17122.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_17126.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_17127.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_20004.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_20005.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_20020.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_5504.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_5506.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_5531.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_5542.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_5550.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_5551.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_5552.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_5722.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_5725.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_5823.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_5827.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_5834.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_5841.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_6057.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_6062.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_6320.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_6328.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_6340.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_6344.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_6354.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_6366.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_6372.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\__default__\user\current\tcld\source\mi_pollution\pollution_mi\mi_pollution_6956.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
